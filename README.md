@@ -1,3 +1,5 @@
+PR link : https://github.com/Awonkhrais/django-x/pull/1
+
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
 ## 🚀 Features
